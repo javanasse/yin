@@ -1,0 +1,3 @@
+[submodule "javmath"]
+	path = javmath
+	url = git@github.com:javanasse/javmath.git
